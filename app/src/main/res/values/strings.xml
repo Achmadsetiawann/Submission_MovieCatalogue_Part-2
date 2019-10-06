@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="title_home">Home</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">Tv Show</string>
+
+    <string name="text_home">Home Landing Page</string>
+    <string name="text_movie">Movie Landing Page</string>
+    <string name="text_movie_series">Movie SeriesLanding Page</string>
+
+
+
+</resources>
